@@ -1,3 +1,7 @@
+# modified pi-gen for running juypter notebooks on RPI
+
+This is a fork of the standard rpi-gen, stage5 has been modified to install the prerequisites for Jupyter notebooks and Microsoft Cognitive Services. 
+
 # pi-gen
 
 _Tool used to create the raspberrypi.org Raspbian images_
