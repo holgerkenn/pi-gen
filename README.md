@@ -2,6 +2,8 @@
 
 This is a fork of the standard rpi-gen, stage5 has been modified to install the prerequisites for Jupyter notebooks and Microsoft Cognitive Services. 
 
+Please see https://github.com/holgerkenn/pi-gen/releases/ for downloading pre-built images.
+
 # pi-gen
 
 _Tool used to create the raspberrypi.org Raspbian images_
